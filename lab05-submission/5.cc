@@ -179,7 +179,7 @@ int main()
 
     log_file.close();
 
-    cout << "✅ 模拟完成！所有日志已同步保存到 warehouse_shutdown_log.txt 文件" << endl;
+    cout << "模拟完成！所有日志已同步保存到 warehouse_shutdown_log.txt 文件" << endl;
 
     return 0;
 }
